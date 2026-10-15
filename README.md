@@ -1,6 +1,23 @@
 GEONMI-MEMS-Logos-5 VLEO: Proprietary Platform Adaptive Core
 **Advanced C++17 Deterministic Flight Software Framework for Commercial Satellite Longevity**
 
+![Satellite-Internet](https://shields.io)
+![Satellite-Sales](https://shields.io)
+![Global-Logistics](https://shields.io)
+
+![SpaceX-Starlink](https://shields.io)
+![Inmarsat-Partner](https://shields.io)
+![Thales-Alenia](https://shields.io)
+![Iridium-Connected](https://shields.io)
+
+![Commercial-Space](https://shields.io)
+![Telecom-Solutions](https://shields.io)
+![VSAT-Systems](https://shields.io)
+
+![Export-Available](https://shields.io)
+![B2B-Orders](https://shields.io)
+
+
 <img width="720" height="893" alt="Image" src="https://github.com/user-attachments/assets/8558b9b2-2479-4055-959e-b39fdb4befcf" />
 <img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b22b2281-a621-4f38-82ee-c02e6ededfba" />
 
