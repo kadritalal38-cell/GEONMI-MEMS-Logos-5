@@ -1,4 +1,4 @@
-# GEONMI-# GEONMI-VLEO: Proprietary Platform Adaptive Core
+#GEONMI-MEMS-Logos-5 VLEO: Proprietary Platform Adaptive Core
 **Advanced C++17 Deterministic Flight Software Framework for Commercial Satellite Longevity**
 
 <img width="720" height="893" alt="Image" src="https://github.com/user-attachments/assets/8558b9b2-2479-4055-959e-b39fdb4befcf" />
